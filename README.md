@@ -16,7 +16,7 @@ alt = "rebellion servers banner">
 
 <h3>
 
-The rebellion bot is a custom bot that is made by <a href="https://awfixer.me>austin</a> the owner of the rebellion discord server
+The rebellion bot is a custom bot that is made by <a href="https://awfixer.me">austin</a> the owner of the rebellion discord server
 to do things that other bots cannot do, or do not do.
 
 <justify>
