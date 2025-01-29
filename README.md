@@ -19,6 +19,8 @@ alt = "rebellion servers banner">
 The rebellion bot is a custom bot that is made by <a href="https://awfixer.me">austin</a> the owner of the rebellion discord server
 to do things that other bots cannot do, or do not do.
 
+</div>
+
 <justify>
 
 The bot works on <a href="https://www.cloudflare.com/developer-platform/products/workers/">Cloudflare Workers</a>, and we plan on using databases like <a href="https://www.digitalocean.com/products/managed-databases-mongodb">MongoDB</a> and <a href="https://www.digitalocean.com/products/managed-databases-redis">Redis</a> hosted on <a href="https://www.digitalocean.com/">Digital Ocean</a>
