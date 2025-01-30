@@ -35,9 +35,9 @@ Feature Setup and Description
 
 <div align="center">
 
-<h4>
+<h3>
   Verification
-</h4>
+</h3>
 
 </div>
 
