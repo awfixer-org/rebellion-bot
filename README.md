@@ -90,7 +90,7 @@ else that is damaging to the user and or community. This context will allow our 
 
 Our Join welcoming is done by this bot, and the way that it works is like so, when you verify you add this bot as a user application, which in turn allows it to DM you
 reguardless of your Privacy settings. This bot will be able to DM you updates, warnings, and even information reguarding bans and appeals. The permissions are carefully selected
-and the data is stored with a the utmost security
+and the data is stored with the utmost security
 
 </details>
 
