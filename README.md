@@ -39,6 +39,10 @@ Feature Setup and Description
   Verification
 </h3>
 
+<p>
+    Our Verification Module aims to be the first, and best of its kind. Allowing for a smooth onboarding experiance followed by a secure verification.
+</p>
+
 </div>
 
 <details>
