@@ -33,7 +33,13 @@ allowing us to manager pull requests, commits, issues, and discussions on platfo
 Feature Setup and Description
 
 
-<h4>Verification</h4>
+<div align="center">
+
+<h4>
+  Verification
+</h4>
+
+<div>
 
 <details>
 
