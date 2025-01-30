@@ -58,18 +58,19 @@ does not usually account for when you join.
 <div align"center">
 
 <h3>
-
+    Moderation - User Based
 </h3>
 
 <p>
-
+    Our User based Moderation is a system that will allow the users to filter out the bad actors in a way that is both politically correct and also protects them from retaliation
 </p>
 
 </div>
 
 <details>
 
-
+The way that this will work is like this, we have contect based message reporting commands that will allow users to report the entirity of a DM that is abusive, a scam, or anthing
+else that is damaging to the user and or community. This context will allow our staff to understand the who what and why of what is going on, and respond appropraitely.
 
 </details>
 
