@@ -55,7 +55,7 @@ does not usually account for when you join.
 </details>
 
 
-<div align"center">
+<div align="center">
 
 <h3>
     Moderation - User Based
@@ -74,7 +74,7 @@ else that is damaging to the user and or community. This context will allow our 
 
 </details>
 
-<div align"center">
+<div align="center">
 
 <h3>
 
@@ -92,7 +92,7 @@ else that is damaging to the user and or community. This context will allow our 
 
 </details>
 
-<div align"center">
+<div align="center">
 
 <h3>
 
@@ -110,7 +110,7 @@ else that is damaging to the user and or community. This context will allow our 
 
 </details>
 
-<div align"center">
+<div align="center">
 
 <h3>
 
@@ -128,7 +128,7 @@ else that is damaging to the user and or community. This context will allow our 
 
 </details>
 
-<div align"center">
+<div align="center">
 
 <h3>
 
