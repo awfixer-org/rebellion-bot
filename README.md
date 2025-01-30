@@ -32,7 +32,10 @@ allowing us to manager pull requests, commits, issues, and discussions on platfo
 
 Feature Setup and Description
 
-<details>Verification<details>
+
+<h4>Verification</h4>
+
+<details>
 
 The way that verification works with this bot is very uniqe. It allows you to finish onboarding, picking the roles that you want. Then it snapshots what you picked and
 proceeds to stip you of all the roles that you picked, replacing them with the unverified role. You can now only see the verify-here channel. When you complete verification
